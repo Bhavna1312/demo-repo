@@ -1,14 +1,14 @@
 //Use logical operators to find whether the age of a person lies between 10 and 20?
-/* let age = prompt("What is your age?")
+let age = prompt("What is your age?")
 if(age>10 && age<20){
     console.log("Your age lies between 10 and 20");
 }
 else{
     console.log("Your age doesnt lies between 10 and 20");
-} */
+}
 
 //Demonstrate the use of switch case statements in javascript
-/* let age = prompt("What is your age?")
+let age = prompt("What is your age?")
 switch (age) {
     case 12:
         console.log("Your age is 12");
@@ -23,7 +23,7 @@ switch (age) {
         console.log("Your age is 15");
 default:
     console.log("Your age is not special");
-} */
+} 
 
 //Write a Javascript program to find whether a no. is Divisible by 2 and 3.
 let num = prompt("What is your age?")
