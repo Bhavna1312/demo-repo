@@ -35,3 +35,14 @@ else {
     console.log("Your number is not divisible by 2 and 3");
     
 }
+
+//Write a Javascript program to find whether a no. is Divisible by either 2 or 3.
+let num = prompt("What is your age?")
+num = Number.parseInt(num)
+if (num % 2 == 0 ){
+    console.log("Your number is divisible by 2");
+}
+else {
+    (num % 3 == 0)
+    console.log("Your number is divisible by 3");
+}
