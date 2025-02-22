@@ -46,3 +46,5 @@ else {
     (num % 3 == 0)
     console.log("Your number is divisible by 3");
 }
+
+//Print "You can Drive" or "You cannot Drive" based on age being greater than 18 using ternary operator.
