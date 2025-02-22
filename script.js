@@ -48,3 +48,6 @@ else {
 }
 
 //Print "You can Drive" or "You cannot Drive" based on age being greater than 18 using ternary operator.
+let age = 12
+let a = age > 18 ? "You can drive" : "You cannot drive"
+console.log(a)
