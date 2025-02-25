@@ -27,3 +27,5 @@ while (i != cn) {
   i = prompt("Enter a number")
 }
 console.log("You have entered a correct number")
+
+//Write a function to find mean of 5 numbers.
