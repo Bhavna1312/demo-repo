@@ -8,7 +8,7 @@ else{
 }
 
 //Demonstrate the use of switch case statements in javascript
-/* let age = prompt("What is your age?")
+ let age = prompt("What is your age?")
 switch (age) {
     case 12:
         console.log("Your age is 12");
@@ -23,10 +23,10 @@ switch (age) {
         console.log("Your age is 15");
 default:
     console.log("Your age is not special");
-} */
+} 
 
 //Write a Javascript program to find whether a no. is Divisible by 2 and 3.
-/* let num = prompt("What is your age?")
+let num = prompt("What is your age?")
 num = Number.parseInt(num)
 if (num % 2 == 0 && num % 3 == 0){
     console.log("Your number is divisible by 2 and 3 ");
@@ -34,9 +34,9 @@ if (num % 2 == 0 && num % 3 == 0){
 else {
     console.log("Your number is not divisible by 2 and 3");
     
-} */
+} 
 
-/*let num = prompt("What is your age?");
+let num = prompt("What is your age?");
 num = Number.parseInt(num);
 if (num % 2 == 0) {
   console.log("Your number is divisible by 2");
@@ -44,7 +44,7 @@ if (num % 2 == 0) {
   num % 3 == 0;
   console.log("Your number is divisible by 3");
 }
-*/
+
 let age = 12;
 let a = age > 18 ? "You can drive" : "You cannot drive";
 console.log(a);
