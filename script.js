@@ -18,19 +18,3 @@ for (let i = 0; i < Object.keys(marks).length; i++) {
 for (let i in marks) {
   console.log(i);
 }
-
-//Write a program to print "try again" until the user enters the correct number.
-let cn = 43
-let i 
-while (i != cn) {
-  console.log("Try again")
-  i = prompt("Enter a number")
-}
-console.log("You have entered a correct number")
-
-//Write a function to find mean of 5 numbers.
-const mean = (a, b, c, d) => {
-  return ( a + b + c + d)/4
-}
-
-console.log(mean(4, 5, 6, 7))
